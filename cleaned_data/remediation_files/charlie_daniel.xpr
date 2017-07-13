@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="19.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="charlie_daniel.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="charlie_daniel.xpr">
+        <folder path="../modsxml/"/>
+        <folder path="."/>
+        <file name="rights_fixer.xsl"/>
+    </projectTree>
+</project>
